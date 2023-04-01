@@ -1,4 +1,4 @@
-# sporalyzer🍄
+# Sporalyzer🍄
 EVM contract size analyzer
 
 ## Background
